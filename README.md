@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🍧  My Blogs: https://www.yuque.com/acsamson/cs
+
 💬  How to reach me: acsamson@foxmail.com
 <!--
 **acsamson/acsamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width='220' src='https://raw.githubusercontent.com/acsamson/files/main/img/%E8%83%8C%E6%99%AF.jpg'/>
+<img width='220' src='http://imgs.samtools.info/img/背景.jpg'/>
 🧡 my own projects below: (Pinned
 
