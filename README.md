@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🍧  My Blogs: https://www.yuque.com/acsamson/cs
+🍧  my blogs: https://www.yuque.com/acsamson/cs
 
 💬  How to reach me: acsamson@foxmail.com
 <!--
