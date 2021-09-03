@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width='220' src='http://imgs.samtools.info/img/背景.jpg'/>
-🧡 my own projects below: (Pinned
+🧡 my private projects below: (Pinned
 
