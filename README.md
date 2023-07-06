@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width='220' src='http://imgs.samtools.info/img/背景.jpg'/>
 🧡 my private projects below: (Pinned
 
